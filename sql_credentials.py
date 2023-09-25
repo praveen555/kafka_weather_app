@@ -1,5 +1,5 @@
-params={'host':"localhost",
-'user':"root",
-'password':"1234",
+params={'host':"####",
+'user':"####",
+'password':"####",
 'database':"weather_app"
 }
